@@ -7,4 +7,4 @@ A repository on clustering methodologies used to mine patent data and product da
 It took this much clicking around to create a page that has no foreseeable purpose other than to allow others to scoop my work. 
 /#/ the language is extremely dense and oriented toward those who already program apps or have some other programming-oriented pretend-purpose in this world
 
-
+# do something useful for a change, apprats.
